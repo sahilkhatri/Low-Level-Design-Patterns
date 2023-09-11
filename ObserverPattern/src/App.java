@@ -22,6 +22,5 @@ public class App {
         iphoneStockObservable.setStockCount(10);
         iphoneStockObservable.setStockCount(0);
         iphoneStockObservable.setStockCount(11);
-
     }
 }
